@@ -1,7 +1,6 @@
 ![Containers](/DOCKER.jpeg)
 UI For Docker is a web interface for the Docker Remote API.  The goal is to provide a pure client side implementation so it is effortless to connect and manage docker.
 
-![Container](/DOCKER.jpeg)
 
 # Docker Cookbook
 
